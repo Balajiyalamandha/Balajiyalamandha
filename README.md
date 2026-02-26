@@ -34,8 +34,8 @@ I am an Automation Test Engineer with 4 years of experience in designing, develo
 - **Methodologies:** Agile, Scrum  
 
 ## 📫 How to Reach Me
-- LinkedIn: (Add your LinkedIn profile link)
-- Email: (Add your professional email)
+- LinkedIn: (https://www.linkedin.com/in/gurubalaji-yalamandha-ab6032224/)
+- Email: (balajiyalamandha@gmail.com)
 
 ## 😄 Pronouns
 He/Him  
