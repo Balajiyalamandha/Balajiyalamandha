@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Balaji Yalamandha
 
 ## 💼 About Me
-I am an Automation Test Engineer with 4 years of experience in designing, developing, and maintaining automated test frameworks for web applications. Passionate about delivering high-quality software through robust testing strategies and continuous integration practices.
+I am an Automation Test Engineer with 4+ years of experience in designing, developing, and maintaining automated test frameworks for web applications. Passionate about delivering high-quality software through robust testing strategies and continuous integration practices.
 
 ## 👀 Areas of Interest
 - Test Automation Framework Development  
